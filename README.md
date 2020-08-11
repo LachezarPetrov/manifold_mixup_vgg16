@@ -4,7 +4,7 @@ Manifold Mixup is a regularization technique that improves latent representation
 This implementation is made with TensorFlow 2 and Keras.
 
 
-References:
+**References:**
 
 Verma, Vikas, et al. "Manifold mixup: Better representations by interpolating hidden states." International Conference on Machine Learning. 2019.
 
